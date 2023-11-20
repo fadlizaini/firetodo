@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806465382207",
+    "project_id": "firetodo-bbc49",
+    "storage_bucket": "firetodo-bbc49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806465382207:android:c45ea8168781abd61c958a",
+        "android_client_info": {
+          "package_name": "com.firetodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWmB82auRCPw5G8doQVbrpwUD0i8bhGq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
